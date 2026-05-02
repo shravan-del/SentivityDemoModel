@@ -1,0 +1,7 @@
+flask
+gunicorn
+praw
+vaderSentiment
+openai
+numpy
+pandas
